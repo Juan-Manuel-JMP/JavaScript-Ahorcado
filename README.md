@@ -2,6 +2,7 @@
 
 ¡Bienvenido al juego del Ahorcado! 🎮  
 Juego de adivinanza de palabras creado con HTML, CSS y JavaScript.
+Debes adivinar una palabra secreta antes de quedarte sin intentos.
 
 ---
 
@@ -26,5 +27,6 @@ Cada vez que fallas, una parte del ahorcado se va dibujando.
 3. **Adivina correctamente**: Si aciertas, la letra aparecerá en la palabra.
 4. **Fallos**: Cada vez que falles, perderás un intento.
 5. **Ganar o perder**: El juego termina cuando adivinas todas las letras de la palabra o te quedas sin intentos.
+
 
 ---
