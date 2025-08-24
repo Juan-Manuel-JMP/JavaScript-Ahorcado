@@ -30,3 +30,7 @@ Cada vez que fallas, una parte del ahorcado se va dibujando.
 
 
 ---
+
+## Captura de Pantalla
+
+![Captura de pantalla](https://github.com/Juan-Manuel-JMP/JavaScript-Ahorcado/blob/main/Captura%20de%20pantalla.png?raw=true)
