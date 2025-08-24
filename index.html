@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Juego del Ahorcado</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap"
+    />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="title">Juego del Ahorcado</h1>
+      <div class="game-info">
+        <p id="word-display"></p>
+        <p id="letters-left">Letras restantes: <span>0</span></p>
+        <p id="attempts-left">Intentos restantes: <span>6</span></p>
+      </div>
+
+      <div class="keyboard">
+        <!-- Botones de las letras -->
+      </div>
+
+      <div class="result-message">
+        <p id="message"></p>
+      </div>
+
+      <button id="restart" class="restart-btn">Reiniciar Juego</button>
+    </div>
+
+    <script src="/src/app.js"></script>
+  </body>
+</html>
